@@ -26,7 +26,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivv-dev-29" height="30" width="40" />
   </a>
   <a href="https://codolio.com/profile/razputshivanshu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="codolio-profile" height="30" width="40" />
+    <img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="codolio-profile" height="30" width="40" />
   </a>
 </p>
 
